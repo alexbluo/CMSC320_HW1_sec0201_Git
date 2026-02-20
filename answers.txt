@@ -4,3 +4,6 @@ Answer: isolating features
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: biology, my dad and brothers do a lot of R and Python to visualize and analyze data gathered from their experiments
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: rebasing has a cleaner version history because it tacks on the feature changelog to the head rather than creating a new merge commit
