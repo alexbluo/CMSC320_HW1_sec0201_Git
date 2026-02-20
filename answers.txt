@@ -7,3 +7,6 @@ Answer: biology, my dad and brothers do a lot of R and Python to visualize and a
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: rebasing has a cleaner version history because it tacks on the feature changelog to the head rather than creating a new merge commit
+Q4: What are you looking forward to this semester?
+
+Answer: doing sick data stuff
